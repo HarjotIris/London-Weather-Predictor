@@ -10,7 +10,6 @@ This project is a **machine learning model** that predicts the **mean temperatur
 📁 LONDON WEATHER/
 │-- 📜 london_weather.py   # Machine learning model training & tuning
 │-- 📜 app.py              # Streamlit web app
-│-- 📜 temperature_predictor.pkl # Trained model file
 │-- 🖼️ Feature Importance in Predicting Temperature.png  # Visualization
 │-- 📜 README.md           # Project documentation (this file)
 ```
@@ -36,7 +35,7 @@ The **most important factors** for predicting temperature (based on model analys
 6️⃣ **Cloud Cover** ☁️
 7️⃣ **Precipitation** 🌧️
 
-![Feature Importance](C:/Desktop/PRACTICE/LONDON WEATHER/Feature Importance in Predicting Temperature.png)
+![Feature Importance](Feature Importance in Predicting Temperature.png)
 
 ---
 
