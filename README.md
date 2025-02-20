@@ -10,6 +10,8 @@ This project is a **machine learning model** that predicts the **mean temperatur
 📁 LONDON WEATHER/
 │-- 📜 london_weather.py   # Machine learning model training & tuning
 │-- 📜 app.py              # Streamlit web app
+│-- 💜 london_weather.csv  # Dataset used for training
+│-- 💜 requirements.txt    # List of dependencies
 │-- 🖼️ Feature Importance in Predicting Temperature.png  # Visualization
 │-- 📜 README.md           # Project documentation (this file)
 ```
