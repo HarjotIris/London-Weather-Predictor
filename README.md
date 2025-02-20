@@ -35,7 +35,7 @@ The **most important factors** for predicting temperature (based on model analys
 6️⃣ **Cloud Cover** ☁️
 7️⃣ **Precipitation** 🌧️
 
-![Feature Importance](Feature Importance in Predicting Temperature.png)
+![Feature Importance]("C:\Desktop\London Weather Predictor\Feature Importance in Predicting Temperature.png")
 
 ---
 
